@@ -19,6 +19,3 @@ I'm an applied AI researcher.
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raishish&count_private=true&show_icons=true&theme=nightowl)
-
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=raishish&theme=radical)
