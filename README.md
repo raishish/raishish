@@ -16,6 +16,3 @@ I'm an applied AI researcher.
 ## Notable Open Source Contributions
 - phospho-app/phosphobot: [Add new models (pi0, smolVLA)](https://github.com/phospho-app/phosphobot/pulls?q=is%3Apr+author%3Araishish)
 - Lightning-AI/litgpt: [Testing improvements](https://github.com/Lightning-AI/litgpt/pulls?q=is%3Apr+author%3Araishish)
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raishish&count_private=true&show_icons=true&theme=nightowl)
